@@ -22,4 +22,4 @@ In this project i have created a Paytm UI clone  from scratch. And i have learnt
 
 
 ## You can Preview it Live on Below Link :
-**[Live Link !]([https://15-product-design-landing-pages.netlify.app/](https://paytm-ui-clone-tailwind-css.netlify.app/))**
+**[Live Link !](https://paytm-ui-clone-tailwind-css.netlify.app/)**
